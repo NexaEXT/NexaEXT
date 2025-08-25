@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/426296bb-d12f-4cf9-a0d6-c0fc7cb895e4" alt="Banner de Nexa">
+  <img src="https://github.com/user-attachments/assets/3391c1a7-4f99-40b6-8689-af87d67954c6" alt="Banner de Nexa">
 </p>
 
 <!-- Títulos e Intro -->
